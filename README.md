@@ -4,5 +4,3 @@ This project was created side by side the youtube video found here: https://www.
 
 ## Important
 I take no credit for the code in this repo as it was purely put together for educational purposes and to showcase the completion of an online code-along video.
-## Code scaffolding
-
